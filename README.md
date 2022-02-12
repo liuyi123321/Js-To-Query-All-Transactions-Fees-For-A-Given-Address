@@ -1,5 +1,4 @@
 # Js-To-Query-All-Transactions-Fees-For-A-Given-Address
-Js To Query All Transactions Fees For A Given Address
 hello ,sir
 we use the nodejs to fetch the data from the etherscan.io api to ge all the transaction from the particular address,and sum up the fee.
 you just need to clone the filed and npm install express;npm install superagent;npm install superagent-proxy for the required packages.
